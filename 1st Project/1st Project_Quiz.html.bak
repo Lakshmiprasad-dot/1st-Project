@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+
+  <title>Quiz</title>
+  <link rel="stylesheet" href="1st Project_Quiz.css"></link>			<!--Link tag is used to Link the css file with HTML file --->
+ 
+ </head>
+ <body>
+
+	<div name="title" id="title">
+	<center><marquee style="">Welcome to the HTML Quiz</marquee>								<!-- It is used to scroll the text content --->
+
+		<img src="D:\1st Project\Quiz-Logo-PNG-Image.png"alt="Not Found" id="img"/>		<!-- image tag with alter attribute (It will show the alter message when the image was not available) -->
+	
+		<fieldset name="start" id="fld1">
+			<h1>Let's Put Your Knowledge to the Test</h1>
+			<label>All The Best..!!</label>
+					<a href="D:\1st Project\Quiz1.html"><input type="button" value="Start" id="button"></input></a>	 <!--we will click the start button ,it will redirecting to the next quiz web form-->
+		</fieldset>
+		
+		</center>
+	</div>
+ </body>
+</html>
+
+

@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+	
+	<title>Quiz5</title>
+	<link rel="stylesheet" href="Quiz1.css"></link>
+
+ </head>
+ <body>
+ 
+  <div id="div1">
+		<img src="D:\1st Project\Quiz-Logo-PNG-Image.png"alt="Not Found" id="img"/>
+  </div>
+  <div id="div2">
+  <form action="D:\1st Project\Quiz6.html">
+		<table>
+			<tr>
+				<td id="td1" colspan="2"> Question 5 of 10</td>
+			</tr>
+			<tr>
+				<td id="td2" colspan="2"><p>5The HTML global attribute, "contenteditable" is used to:</td>
+			</tr>
+			<tr>
+				<td class="radio"><input type="radio" name="one" class="radio1"></input></td>
+				<td class="answer">Specifies a context menu for an element. The menu appears when a user right-clicks on the element</td>
+			</tr>
+			<tr>
+				<td class="radio"><input type="radio" name="one" class="radio1"></input></td>
+				<td class="answer">Update content from the server</td>
+			</tr>
+			<tr>
+				<td class="radio"><input type="radio" name="one" class="radio1"></input></td>
+				<td class="answer">Specify whether the content of an element should be editable or not</td>
+			</tr>
+			<tr>
+				<td class="radio"><input type="radio" name="one" class="radio1"></input></td>
+				<td class="answer">Return the postion of the found occurrence of content inside a string</td>
+			</tr>
+		</table>
+		
+			<fieldset style="border:none;">
+					<a href="D:\1st Project\Quiz4.html">
+						<input type="button" value="Back" id="back-button">
+						</input>
+					</a>
+						<input  type="submit" value="Next Quetion" id="submit-button"></input>
+			</fieldset>	
+	</form>
+  </div>
+
+ </body>
+</html>
